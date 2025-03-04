@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡If you have an issue or otherwise with a particular project that I contribute to, please open an issue on the relevant repository.
-- 📫 If you're looking to contact me in general, the best place to reach out to me is on Mastodon at [@gibbed@peoplemaking.games](https://peoplemaking.games/@gibbed).
+- 📫 If you're looking to contact me in general, the best place to reach out to me is on Mastodon at [@gibbed@peoplemaking.games](https://peoplemaking.games/@gibbed) or BlueSky at [@gib.me](https://bsky.app/profile/gib.me).
 
 <!--
 **gibbed/gibbed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
